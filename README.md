@@ -364,7 +364,5 @@ This project highlights a profile that is highly relevant for roles such as:
 - Full-Stack Engineer with AI Integration
 - Software Engineer
 - Data Engineer
-- Applied AI Engineer
-- AI Product Engineer
 
 It demonstrates both the **product engineering mindset** needed to build complete systems and the **AI integration mindset** needed to evolve them into intelligent applications.
